@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Fresca|Noto+Sans+HK&display=swap');
+
+body h1{
+	font-family: 'Fresca', sans-serif;
+	font-size: 110px;
+	color: #000;
+	text-align: center;
+		
+	}
+body h3{
+	font-family: 'Noto Sans HK', sans-serif;
+	font-size: 35px;
+	color: #000;
+	text-align: center;
+}
+
+.btn-hero{
+	background-color:#8F33E8;
+	padding: 50px, 50px;
+	color:#fff;
+	letter-spacing:0.5px ;
+	font-family:'Noto Sans HK', sans-serif;
+	margin-top: 2%;
+	
+}
+
+.carousel-caption{
+font-family: 'Fresca', sans-serif;
+font-size: 110px;
+color: #000;
+text-align: center;
+margin-bottom: 10%;
+}
+
+
+#hero{
+background-image:url(../img/hero-1.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+padding: 150px 0 95px;
+
+}
+
+#slides{
+text-align: center;
+}
+
+
+#About{
+text-align: center;
+background-color:#D6BBE3;
+opacity: 1;
+font-family: 'Fresca', sans-serif;
+color:#000000;
+padding-top:5%;
+padding-bottom: 5%;
+}
+
+.title{
+font-size: 50px;
+}
+
+.texto{
+font-family: 'Noto Sans HK', sans-serif;
+font-size: 15px;
+}
+
+.icon{
+font-size: 50px;
+color: #8F33E8;
+}
+
+#services{
+text-align: center;
+background-color: #EDEDED;
+padding-top: 5%;
+padding-bottom: 5%;
+
+}
+
+#services h2{
+color:#8F33E8;
+font-family: 'Fresca', sans-serif;
+font-size: 50px;
+}
+
+#services h3{
+color:#8F33E8;
+font-family: 'Fresca', sans-serif;
+font-size: 40px;	
+}
+
+#portafolio{
+background-color:#D6BBE3;
+text-align: center;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+
+#portafolio h2{
+font-family: 'Fresca', sans-serif;
+font-size: 50px;
+}
+
+.submit{
+background-color:#8F33E8;
+padding: 50px, 50px;
+color:#fff;
+letter-spacing:0.5px ;
+font-family:'Noto Sans HK', sans-serif;	
+}
+
+#contact{
+background-color:#EDEDED;
+padding-top: 3%;
+padding-bottom: 5%;
+font-family:'Noto Sans HK', sans-serif;	
+color:#8F33E8;
+}
+
+#contact h2{
+font-family: 'Fresca', sans-serif;
+font-size: 50px;
+color:#8F33E8;
+}
+
+footer{
+background-color: #D6BBE3;
+padding-top: 2%;
+padding-bottom: 1%;
+text-align: center;
+font-family:'Noto Sans HK', sans-serif;
+}
+
+footer h4{
+font-family: 'Fresca', sans-serif;
+}
+
+
+.border{
+	border: thin 100px #8F33E8;
+}
+
+.imagenes{
+margin-left: 15%;
+}
+
+.separador{
+margin-left:9%	
+}
+
+.agya{
+margin-top: 5%;
+}
+
+.sep{
+margin-left:15%	
+}
+
+.fam{
+margin-left:6%		
+}
